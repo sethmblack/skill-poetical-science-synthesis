@@ -3,7 +3,7 @@ name: poetical-science-synthesis
 description: Combine rigorous analytical methods with imaginative exploration - using discipline to test what imagination proposes, as Ada Lovelace did when she fused her father's romantic vision with her mothe...
 license: MIT
 metadata:
-  version: 1.0.4705
+  version: 1.0.4706
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
